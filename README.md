@@ -9,3 +9,5 @@ Python 3.x
 Scrapy
 
 ## Sample result:
+
+![image](https://github.com/Jingxuan-Bao/WebCrawler-IMDB/blob/c6a0550a223ee5ac48febd3b1a9249c7abfdafde/fig/sample1.png)
